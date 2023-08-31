@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1693435344 source:c:\users\tyrmax-lenovo\documents\projekty code blocks\stb_image_testy\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"stb/stb_image.h"
+	"stb/stb_image_write.h"
+
+1691154306 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1691154306 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1691154892 c:\users\tyrmax-lenovo\documents\projekty code blocks\stb_image_testy\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1693230489 c:\users\tyrmax-lenovo\documents\projekty code blocks\stb_image_testy\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1693426744 c:\users\tyrmax-lenovo\documents\projekty code blocks\stb_image_testy\stb_image_resize.h
+	"stb_image_resize.h"
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
+1691154892 c:\program files\codeblocks\mingw\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1693230489 c:\program files\codeblocks\mingw\include\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
+1691154892 c:\users\tyrmax-lenovo\documents\projekty code blocks\stb_image_testy\stb\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1693230489 c:\users\tyrmax-lenovo\documents\projekty code blocks\stb_image_testy\stb\stb_image_write.h
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+
